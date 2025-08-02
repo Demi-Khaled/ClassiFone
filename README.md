@@ -1,5 +1,5 @@
-📱 ScreenSize Classifier | 97% Accurate Logistic Regression Model
-A high-performance classifier predicting device classes using screen metrics and engineered features.
+<h1>📱 ScreenSize Classifier | 97% Accurate Logistic Regression Model</h1>
+<h3></h3>A high-performance classifier predicting device classes using screen metrics and engineered features.</h3>
 
 ✨ Key Features
 97% test accuracy with minimal overfitting (1.8% gap)
